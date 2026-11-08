@@ -1,0 +1,6 @@
+haystack-ai>=2.14
+pinecone-haystack
+pyTelegramBotAPI
+python-dotenv
+requests
+pytest
